@@ -3,4 +3,6 @@ The balloons tower defense is developed as a single player strategic game in whi
 # Language 
 Assembly 8086
 # Executable
-The executable can be executed at only DOSBox (wasn't tested on other platforms)
+The executable can be executed only at DOSBox (wasn't tested on other platforms)
+# Date of project
+June 2020
